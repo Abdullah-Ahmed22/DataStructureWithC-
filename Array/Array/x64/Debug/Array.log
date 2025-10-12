@@ -1,0 +1,7 @@
+﻿  Array.cpp
+C:\Users\Abdullah Ahmed\DataStructure\Array\Array\Array.cpp(89,14): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Abdullah Ahmed\DataStructure\Array\Array\Array.cpp(153,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Abdullah Ahmed\DataStructure\Array\Array\Array.cpp(214,2): error C2562: 'main': 'void' function returning a value
+      C:\Users\Abdullah Ahmed\DataStructure\Array\Array\Array.cpp(153,6):
+      see declaration of 'main'
+  

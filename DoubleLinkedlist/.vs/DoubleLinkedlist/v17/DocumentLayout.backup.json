@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abdullah Ahmed\\DataStructure\\DoubleLinkedlist\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FCA1C97-8484-48BF-865C-D6FCE5CADEA3}|DoubleLinkedlist\\DoubleLinkedlist.vcxproj|C:\\Users\\Abdullah Ahmed\\DataStructure\\DoubleLinkedlist\\DoubleLinkedlist\\DoubleLinkedList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5FCA1C97-8484-48BF-865C-D6FCE5CADEA3}|DoubleLinkedlist\\DoubleLinkedlist.vcxproj|solutionrelative:DoubleLinkedlist\\DoubleLinkedList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoubleLinkedList.cpp",
+              "DocumentMoniker": "C:\\Users\\Abdullah Ahmed\\DataStructure\\DoubleLinkedlist\\DoubleLinkedlist\\DoubleLinkedList.cpp",
+              "RelativeDocumentMoniker": "DoubleLinkedlist\\DoubleLinkedList.cpp",
+              "ToolTip": "C:\\Users\\Abdullah Ahmed\\DataStructure\\DoubleLinkedlist\\DoubleLinkedlist\\DoubleLinkedList.cpp",
+              "RelativeToolTip": "DoubleLinkedlist\\DoubleLinkedList.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-17T20:40:51.737Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

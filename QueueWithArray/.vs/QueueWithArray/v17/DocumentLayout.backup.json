@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abdullah Ahmed\\DataStructure\\QueueWithArray\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D025F48F-6554-40B6-90D1-904D6D815AF1}|QueueWithArray\\QueueWithArray.vcxproj|C:\\Users\\Abdullah Ahmed\\DataStructure\\QueueWithArray\\QueueWithArray\\Queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D025F48F-6554-40B6-90D1-904D6D815AF1}|QueueWithArray\\QueueWithArray.vcxproj|solutionrelative:QueueWithArray\\Queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Queue.cpp",
+              "DocumentMoniker": "C:\\Users\\Abdullah Ahmed\\DataStructure\\QueueWithArray\\QueueWithArray\\Queue.cpp",
+              "RelativeDocumentMoniker": "QueueWithArray\\Queue.cpp",
+              "ToolTip": "C:\\Users\\Abdullah Ahmed\\DataStructure\\QueueWithArray\\QueueWithArray\\Queue.cpp",
+              "RelativeToolTip": "QueueWithArray\\Queue.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-19T13:51:45.455Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abdullah Ahmed\\DataStructure\\StackWithLinkedList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF2F5E4-9E4A-4EAC-AF6B-75E91A3232BF}|StackWithLinkedList\\StackWithLinkedList.vcxproj|C:\\Users\\Abdullah Ahmed\\DataStructure\\StackWithLinkedList\\StackWithLinkedList\\StackWithLinkedList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1BF2F5E4-9E4A-4EAC-AF6B-75E91A3232BF}|StackWithLinkedList\\StackWithLinkedList.vcxproj|solutionrelative:StackWithLinkedList\\StackWithLinkedList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StackWithLinkedList.cpp",
+              "DocumentMoniker": "C:\\Users\\Abdullah Ahmed\\DataStructure\\StackWithLinkedList\\StackWithLinkedList\\StackWithLinkedList.cpp",
+              "RelativeDocumentMoniker": "StackWithLinkedList\\StackWithLinkedList.cpp",
+              "ToolTip": "C:\\Users\\Abdullah Ahmed\\DataStructure\\StackWithLinkedList\\StackWithLinkedList\\StackWithLinkedList.cpp",
+              "RelativeToolTip": "StackWithLinkedList\\StackWithLinkedList.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-18T16:01:03.327Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

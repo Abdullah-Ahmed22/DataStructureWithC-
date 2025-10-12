@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abdullah Ahmed\\DataStructure\\StackWithArray\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EC20BBC-37CA-4F91-93A0-4D7FD02EDCBB}|StackWithArray\\StackWithArray.vcxproj|C:\\Users\\Abdullah Ahmed\\DataStructure\\StackWithArray\\StackWithArray\\StackWithArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9EC20BBC-37CA-4F91-93A0-4D7FD02EDCBB}|StackWithArray\\StackWithArray.vcxproj|solutionrelative:StackWithArray\\StackWithArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StackWithArray.cpp",
+              "DocumentMoniker": "C:\\Users\\Abdullah Ahmed\\DataStructure\\StackWithArray\\StackWithArray\\StackWithArray.cpp",
+              "RelativeDocumentMoniker": "StackWithArray\\StackWithArray.cpp",
+              "ToolTip": "C:\\Users\\Abdullah Ahmed\\DataStructure\\StackWithArray\\StackWithArray\\StackWithArray.cpp",
+              "RelativeToolTip": "StackWithArray\\StackWithArray.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-18T11:52:42.805Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
