@@ -1,1 +1,1 @@
-# Data Struvture Topics – C++ Implementation
+# Data Structure Topics – C++ Implementation
